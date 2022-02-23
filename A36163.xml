@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divers reasons against lightening the coin of this nation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36163</idno>
+            <idno type="STC">Wing D1710A</idno>
+            <idno type="STC">ESTC R298</idno>
+            <idno type="EEBO-CITATION">12126426</idno>
+            <idno type="OCLC">ocm 12126426</idno>
+            <idno type="VID">54613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 26:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divers reasons against lightening the coin of this nation</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:54613:1"/>
+            <head>DIVERS REASONS AGAINST Lightening the Coin of this Nation AS BEING The Great Remedy propoſed by the <hi>Bankers</hi> and <hi>Jews,</hi> to obſtruct the Melting down the Coin aforeſaid, and other Inconveniences complained of in the Petition of the <hi>Working Goldſmiths</hi> to the Honorable HOUSE OF COMMONS.</head>
+            <p>THE Liberty of Exporting Silver out of this Nation having produced Effects quite contrary to the firſt Deſign of it, and being improved to a National Grievance, to ſatisfie the covetous Deſires of ſome Men: We may with good reaſon ſuſpect, that the Lightening of our Coin being propoſed by them, as a Remedy, will produce Effects of as different a Nature as the Liberty it ſelf has done. Which will be beſt un<g ref="char:EOLhyphen"/>derſtood by conſidering the Conveniences propoſed by Lightening of our Coin. Which Conveniences are conceived to be theſe three;</p>
+            <p>Firſt, <hi>That thereby Encouragement will be given for bringing in greater Quantities of Silver into this Kingdom.</hi>
+            </p>
+            <p>Secondly, <hi>That when it is brought in, it will conſequently be brought to the</hi> Tower <hi>to be Coined.</hi> And</p>
+            <p>Thirdly, <hi>That it will be preſerved by this Means from being melted down and de<g ref="char:EOLhyphen"/>ſtroyed.</hi>
+            </p>
+            <p>Theſe being the Imaginary Conveniences of Lightening our Coin, we ſhall con<g ref="char:EOLunhyphen"/>ſider them ſeverally. And</p>
+            <p>Firſt, as to that of <hi>Incouraging greater Quantities to be brought in.</hi>
+            </p>
+            <p>When the Petition was before the Honorable Committee to be conſidered. The Lightening our Coin was propoſed, againſt which ſome Objections being made, as not Practicable, or that great Inconveniences would enſue upon it: A Member of the Committee willing to promote it, urged this as a Precedent. <hi>viz.</hi> That in a certain King's Reign, Sterling Silver was not worth above thirty five Shillings the Pound-Weight here in <hi>England,</hi> and ſo conſequently in the Neigh<g ref="char:EOLhyphen"/>boring Nations; but it becoming afterwards more ſcarce, each of them, to en<g ref="char:EOLhyphen"/>courage the Importation of Silver, Lightened their Coin, by which means the Price of Sterling Silver was raiſed to three pounds two Shillings the Pound-Weight, and has continued ſo for ſome Ages. Which being urged as a Precedent for Lightening our Coin, ſhews likewiſe, that the Neighboring Nations muſt fol<g ref="char:EOLhyphen"/>low our Precedent, and do the like.</p>
+            <p>It is well known, that all the conſiderable Quantities of Silver that are brought into this Kingdom, and the Neighboring Countries are brought from <hi>Spain,</hi> that being the Fountain. Should <hi>Spain</hi> by our Precedent lighten their Coin propor<g ref="char:EOLhyphen"/>tionably, then all the Conveniences that we can propoſe will be utterly loſt; for
+<pb n="2" facs="tcp:54613:2" rendition="simple:additions"/>Silver being the Product of the <hi>Spaniſh</hi> Territories, all the Advantage which we <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropoſe to our ſelves, will accrue to them, and greater Quantities of our Manu<g ref="char:EOLhyphen"/>factures muſt be carried there to procure leſſer Quantities of Silver. That they will follow our Precedent, may very reaſonably be concluded, ſince the Advan<g ref="char:EOLhyphen"/>ges by doing it will be to them in reality, what we propoſe to our ſelves only from a miſtaken Notion. As to the</p>
+            <p>Second Convenience propoſed, we willingly grant it, if the former were not deceitful. And therefore ſhall proceed to conſider the</p>
+            <p>Third Convenience, which is <hi>the Preſerving it, when Coined.</hi>
+            </p>
+            <p>In order to which we ſhall obſerve, That according to the Standard of <hi>England,</hi> the real Value of Silver is but five Shillings <hi>per</hi> Ounce, <hi>viz.</hi> eleven Ounces, two Penny-Weights of Fine Silver, and eighteen Penny-Weights of Allay added to it, make up the Pound Weight <hi>Troy.</hi> Now altho this be the Standard, yet to en<g ref="char:EOLhyphen"/>courage the Importation of Silver, and the bringing it to the Mint to be Coined, the Charge of Coining is defrayed by the King, and our Crown-Pieces are Coin<g ref="char:EOLhyphen"/>ed to want two pence in weight of one Ounce. From whence it may be obſerved, that the Merchants who do Import Silver, have already the Incouragement of two pence per Ounce profit above what our Standard is declared to be, and upon this Incouragement the Mint-Books will teſtifie, that all the conſiderable Quantities of Silver are imported, by its being brought there to be Coined.</p>
+            <p>What then is the Reaſon why this Incouragement upon which Silver is Imported, and brought to the Mint to be Coined, does not preſerve it when it is Coined? We anſwer,</p>
+            <p>The Reaſon is plainly this, That our Merchants being allowed to export Fo<g ref="char:EOLhyphen"/>reign Coin, or Bullion, at the time of Exportation the Silver is generally raiſed two pence <hi>per</hi> Ounce above what it will make at the Mint, which occaſions the melting down of our Coin into the Form of Bullion for them to export, And ſup<g ref="char:EOLhyphen"/>poſing our Crown-Pieces for the future to be Coined four pence in Weight lighter than our Standard is declared to be, no doubt but our Merchants, who do export Silver now, would then, to have their Occaſions ſupplied, be willing to give a penny or two pence an Ounce above the Rate of the Mint, and conſequent<g ref="char:EOLhyphen"/>ly there will ſtill be the ſame Incouragement for melting the Coin then, as is now.</p>
+            <p>To conſider the Circumſtances of thoſe Men by whom the Lightening our Coin is propoſed, and the particular Intereſts that may accrew to them by it, and likewiſe that theſe their particular Intereſts, are publick Injuries to the N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, it may reaſonably be thought, that the National Good is little regarded by them; and this their Project is not intended to remedy the Abuſes, but to circumvent the Petitioners, many of them having four or five thouſand Ounces of Plate by them, wrought up for Sale, which ſtands them in but five ſhillings and two pence <hi>per</hi> Ounce, beſides Faſhion, which, when our Coin is Lightened, they will then ſell for five ſhillings and four pence <hi>per</hi> Ounce, which will be two pence <hi>per</hi> Ounce profit to them, and great part of the Treaſure of this Nation, going through their Hands, the Price of Silver being raiſed proportionable to what our Coin is Lightened, it will certainly follow, that all the Mileld and Heavy Monies that is yet remaining, will in a little time be melted down, and ſent away as Foreign Silver; and thoſe that do it will then have the Incourage<g ref="char:EOLhyphen"/>ment of double profit. And a few years will manifeſt this to be Truth, that altho the Coin of this Nation has much decreaſed of late years, and much Plate has been melted down, and moſt of the Silver Imported into this Kingdom has been ſent away, and ſo the Subjects deprived of the Uſe and Benefit of it, all theſe Evils being occaſioned, by a Neceſſity the Merchants are under, to Export Silver, and their raiſing the Price at the time of Exportation, above the Value at the Mint, the Lightening our Coin will prove altogether a deceitful Remedy<g ref="char:punc">▪</g> and the Effects of it will occaſion Silver to be ſold as commonly at five ſhillings and ſix pence <hi>per</hi> Ounce, as it is now at five ſhillings and four pence <hi>per</hi> Ounce; and conſequently this their Project will advance their Profit in ſeveral Reſpects, but not Remedy the Abuſes Complained of.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
